@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.mise.toml
+.system_generated/
+.DS_Store
